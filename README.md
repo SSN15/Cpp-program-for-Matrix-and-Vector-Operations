@@ -6,4 +6,4 @@ Some of the operations include:
 * Matrix + Matrix
 * Vector x Vector
 * Vector x Scalar
-* Vector + vector
+* Vector + Vector
